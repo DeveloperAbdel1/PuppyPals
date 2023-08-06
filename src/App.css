@@ -4,7 +4,12 @@
   padding: 2rem;
   text-align: center;
 }
-
+.App{
+  background-color: rgb(4, 0, 128);
+}
+.Avatar{
+  background-color: rgb(228, 221, 221);
+}
 .logo {
   height: 6em;
   padding: 1.5em;
